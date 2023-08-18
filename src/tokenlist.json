@@ -1,0 +1,28 @@
+{
+  "name": "NyanFarm List",
+  "timestamp": "2023-08-17T00:30:00.000Z",
+  "logoURI": "https://NyanFarm.com/favicon.ico",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "WBNB",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 204,
+      "logoURI": "https://raw.githubusercontent.com/NyanFarmopBNB/tokenlist/main/logos/bnb.png"
+    },
+    {
+      "name": "NyanFarm",
+      "address": "0xbeE4a69dfd0baDA237B8D758608aB1ba435FD2EC",
+      "symbol": "NyanFarm",
+      "decimals": 18,
+      "chainId": 204,
+      "logoURI": "https://raw.githubusercontent.com/NyanFarmopBNB/tokenlist/main/logos/token.png"
+    }
+  ]
+}
