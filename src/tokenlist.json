@@ -3,7 +3,7 @@
   "timestamp": "2023-08-17T00:30:00.000Z",
   "logoURI": "https://NyanFarm.com/favicon.ico",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -18,7 +18,7 @@
     },
     {
       "name": "NyanFarm",
-      "address": "0xbeE4a69dfd0baDA237B8D758608aB1ba435FD2EC",
+      "address": "0xb3Ac5a81FCa3ad66539E05C984ed40a8c01a5628",
       "symbol": "NyanFarm",
       "decimals": 18,
       "chainId": 204,
